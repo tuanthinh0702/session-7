@@ -1,0 +1,101 @@
+/* .component {
+  width: 620px;
+}
+.component {
+  width: 100%;
+  height: 213px;
+  background-image: url("./https://kenh14cdn.com/thumb_w/620/203336854389633024/2021/4/12/d6220f6c05d048069573d120127839ec-1618215891213125342064.jpeg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: none;
+} */
+
+/* * {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.parent {
+  background-color: indigo;
+  height: 300px;
+  margin-top: 50px;
+  margin-left: 50px;
+  position: relative;
+}
+.parent .child-1 {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  z-index: 2;
+}
+.parent .child-2 {
+  width: 100px;
+  height: 100px;
+  background-color: greenyellow;
+  position: absolute;
+  z-index: 2;
+}
+.parent .child-3 {
+  width: 100px;
+  height: 100px;
+  background-color: hotpink;
+  position: absolute;
+  z-index: 2;
+} */
+
+.parent {
+  width: 1000px;
+  height: 300px;
+  background-image: url(https://cellphones.com.vn/sforum/wp-content/uploads/2018/11/3-8.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  border-radius: 10px;
+}
+.parent button {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  cursor: pointer;
+  color: gray;
+  width: 107px;
+  height: 25px;
+  border-radius: 5px;
+}
+.avatar {
+  position: relative;
+  width: 1000px;
+  height: 300px;
+}
+.avatar button {
+  position: absolute;
+  border-radius: 40%;
+  top: -3%;
+  left: 55%;
+  cursor: pointer;
+}
+.parent img {
+  position: absolute;
+  border-radius: 50%;
+  bottom: -8%;
+  right: 40%;
+}
+
+h1 {
+  position: absolute;
+  text-align: center;
+  bottom: -30%;
+  right: 37%;
+  line-height: 0px;
+}
+a {
+  position: absolute;
+  text-align: center;
+  bottom: -35%;
+  right: 46%;
+  text-decoration: none;
+  line-height: 0px;
+}
